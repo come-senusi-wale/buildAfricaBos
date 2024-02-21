@@ -9,10 +9,10 @@ import  "../style/home.css";
 export default function Home() {
   return (
      <main id='home-body'>
-     {/* <Header></Header>
+     <Header></Header>
      <Crafted></Crafted>
-     <Partner></Partner> */}
-     <HomePage></HomePage>
+     <Partner></Partner>
+     {/* <HomePage></HomePage> */}
      <Faq></Faq>
      </main>
     
