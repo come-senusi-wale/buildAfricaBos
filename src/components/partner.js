@@ -19,28 +19,28 @@ export const Partner = () => {
                         <li>
                             <a href="https://www.nearbuilders.org/" target="blank">
                                 <div className="part-logo">
-                                <Image src={bouldDao} alt="" srcset="" />
+                                <img src="https://saheedwale.s3.amazonaws.com/1708416492768-2c514901-3eaa-480a-832b-dccd78a04914.jpg" alt="" srcset="" />
                                 </div>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://www.potlock.io/" target="blank">
                                 <div className="part-logo">
-                                <img src="https://unicorn-cdn.b-cdn.net/6dd6c5da-b114-427d-b641-4d56dc1c42c9/logo-dark128.png?width=468&height=72" alt="" srcset="" />
+                                <img src="https://www.potlock.io/assets/logo.svg" alt="" srcset="" />
                                 </div>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://near.org/" target="blank">
                                 <div className="part-logo">
-                                <img src="https://unicorn-cdn.b-cdn.net/82630842-e71b-4b56-84d8-71988eb58eba/seobot-logo.png?width=218&height=76" alt="" srcset="" />
+                                <img src="https://near.org/_next/static/media/near-logo.1416a213.svg" alt="" srcset="" />
                                 </div>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://ndc.gov.ng/" target="blank">
                                 <div className="part-logo">
-                                <img src="https://unicorn-cdn.b-cdn.net/64a02109-bf2e-4c3e-a305-be836e4d05be/allgpts-logo.png?width=205&height=45" alt="" srcset="" />
+                                <img src="https://ndc.gov.ng/wp-content/uploads/2020/03/Webp.net-resizeimage.png" alt="" srcset="" />
                                 </div>
                             </a>
                         </li>
@@ -67,8 +67,7 @@ export const Partner = () => {
                         </li>
                     </ul>
                 </div>
-            </div>
-            
+            </div>   
         </section>
     </>)
 }
