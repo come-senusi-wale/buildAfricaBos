@@ -20,6 +20,7 @@
     margin-top: 80px;
     background-color: rgb(255, 255, 255);
     padding: 60px 0;
+    background-color: red;
 }
 
 #about-container{
@@ -56,6 +57,7 @@
 .about-flex p{
     margin-top: 20px;
     line-height: 2;
+    color: #111111;
 }
 
 /*  setting media query  */
