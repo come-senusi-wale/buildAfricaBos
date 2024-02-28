@@ -12,7 +12,7 @@ export const faq = {
      },
      {
          id:'3',
-         title:'Do I need to know HTML/CSS to use BuildAfrica?',
+         title:'Do I need to know Near blockchain to use BuildAfrica?',
          description:"No, you do not necessarily need to have prior knowledge of the Near blockchain to use BuildAfrica. BuildAfrica aims to provide a comprehensive onboarding process for communities interested in participating in the Near ecosystem, starting with Nigeria. Through its targeted educational programs, collaborations with partners, and integration initiatives, BuildAfrica equips participants with the necessary skills and knowledge to engage effectively with Near's technology and opportunities."
      },
      {
